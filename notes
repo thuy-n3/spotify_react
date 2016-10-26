@@ -1,0 +1,13 @@
+1)      Create a web app with the following requirements:
+a.      You must use React.JS;
+b.      You can use any other pattern/framework/code standards you want to complement the implementation;
+c.       Create a single app in HTML/JavaScript/CSS that consumes an external API of Spotify:
+i.         It must contain a search field to search for artists. While the user is typing, some suggestions must be displayed as a dropdown under the search field;
+ii.       When the user clicks over an artist, a list of suggested albums must be displayed;
+iii.      The user must be able to select an album and see the details of it: cover, title, artist, date and list of songs with the duration;
+d.      The user must be able to navigate through the history buttons of the browser without refreshing the entire webpage.
+ 
+2)      Notes and bonus:
+·         This web app should be compatible with all modern browsers;
+·         The use of SASS/LESS and BEM would be appreciated;
+·         The look and feel and user experience will be evaluated too.
